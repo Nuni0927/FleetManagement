@@ -13,8 +13,3 @@ This project demonstrates OOP fundamentals by modeling cars and vehicles with at
 - **Language**: Java 17+
 - **OOP Concepts**: Classes, Objects, Constructors, Inheritance, Encapsulation, Getters/Setters
 - **IDE**: IntelliJ IDEA
-
-## How to Run
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/Nuni0927/FleetManagement.git
